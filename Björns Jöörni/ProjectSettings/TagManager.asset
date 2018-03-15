@@ -6,6 +6,13 @@ TagManager:
   tags:
   - Ground
   - Damage
+  - helathBar
+  - Enemy
+  - Attack
+  - Left
+  - Right
+  - enemyJump
+  - EnemyAttack
   layers:
   - Default
   - TransparentFX
